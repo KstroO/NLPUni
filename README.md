@@ -1,5 +1,5 @@
 # Natural Language Processing notebooks
-Repository destinated for work only for university NLP studies, taken in 2021-I in the institution Fundación Universitaria Konrad Lorenz for the specialization "Especialización en analítica estratégica de datos" with [Viviana Marquez](https://github.com/vivianamarquez), an amazing teacher with great sense of humor.
+Repository destinated for work only for university NLP studies taken in 2021-I in the institution Fundación Universitaria Konrad Lorenz for the specialization "Especialización en analítica estratégica de datos" with [Viviana Marquez](https://github.com/vivianamarquez), an amazing teacher with great sense of humor.
  
 Every notebook here is made in jupyter notebooks, a tool that comes with [the anaconda paltform](https://www.anaconda.com/products/individual) and [the python language](https://www.python.org/about/). Each notebook will have a short description, the topic covered, and the link to the jupyter notebook in the [nbviever tool](https://nbviewer.jupyter.org/), a tool that makes easy the visualization of large notebooks, or visualizing plot outputs within the notebook. You can also the .ipynb notebooks in the "Talleres" folder. (Some of the notebooks are documented in "Spanglish")
 
